@@ -4,7 +4,7 @@ API-REST para emissão,cancelamento e impressão de NF-e(transferência) e NFC-e
 [sped-nfe](https://github.com/nfephp-org/sped-nfe).
 
 ## Importante
-_A construção da api tem como intuito, centralizar a emissão dos documentos fiscais em um único lugar e sem dependência 
+_A construção da api tem como intuito centralizar a emissão dos documentos fiscais em um único lugar e sem dependência 
 de dados dos clientes._
 
 _Quanto aos certificados digitais dos clientes, eu fiz uma outra api que retorna o certificado em `base_64`._
